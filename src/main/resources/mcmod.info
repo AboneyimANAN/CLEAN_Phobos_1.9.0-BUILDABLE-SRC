@@ -1,11 +1,11 @@
 [
   {
-    "modid": "phobos",
-    "name": "BeTa",
+    "modid": "earthhack",
+    "name": "3arthh4ck",
     "description": "1.12.2 PvP Client",
-    "version": "1.3.0",
+    "version": "1.9.0",
     "mcversion": "1.12.2",
-    "logoFile": "beta.png",
+    "logoFile": "phobos.png",
     "url": "https://discordapp.com/invite/5ABu5UU",
     "updateUrl": "",
     "authorList": [
