@@ -30,7 +30,7 @@ public class LagBlock
     private int blockSlot = -1;
 
     public LagBlock() {
-        super("BlockLag", "Lags You back", Module.Category.MOVEMENT, true, false, false);
+        super("Burrow", "Burrowa Bak Anani Sikim", Module.Category.MOVEMENT, true, false, false);
         INSTANCE = this;
     }
 
