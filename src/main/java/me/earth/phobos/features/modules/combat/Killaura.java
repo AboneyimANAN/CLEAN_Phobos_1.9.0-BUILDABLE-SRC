@@ -50,7 +50,7 @@ public class Killaura
     public Setting<Float> health = this.register(new Setting<Object>("Health", Float.valueOf(6.0f), Float.valueOf(0.1f), Float.valueOf(36.0f), v -> this.targetMode.getValue() == TargetMode.SMART));
 
     public Killaura() {
-        super("Killaura", "Kills aura.", Module.Category.COMBAT, true, false, false);
+        super("KillerBeTa", "Kills aura.", Module.Category.COMBAT, true, false, false);
     }
 
     @Override
